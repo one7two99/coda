@@ -183,7 +183,6 @@ Coda targets **QMK `keymap.c`** — not Vial. Reasons:
 | File | Contents |
 |---|---|
 | [`docs/DOCUMENTATION.md`](docs/DOCUMENTATION.md) | Complete design documentation — principles, metrics, all layers, TD/macro/combo reference |
-| [`docs/coda_spec.png`](docs/coda_spec.png) | Visual specification — all layers as keyboard diagrams |
 | [`docs/coda_compare.png`](docs/coda_compare.png) | Ergonomic comparison — radar chart + metrics vs QWERTZ/Dvorak/Colemak-DH |
 
 ---
